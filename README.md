@@ -61,7 +61,6 @@ The following optional features were **not implemented** due to time constraints
 - Notification via listener (email or database)
 - Feature/Unit test (PHPUnit)
 
-These can be easily added with the current architecture.
 
 ---
 
@@ -95,7 +94,7 @@ Modular folder structure is manually loaded using PSR-4
 
 ⏱ Time Spent
 -------------------------
-Approx. 4–5 hours
+Approx. 3-4 hours
 
 📬 Author
 -------------------------------git s
