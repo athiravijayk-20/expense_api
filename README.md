@@ -48,6 +48,8 @@ Modules/
 - **Form Requests** handle validation
 - **Controllers** call services and return formatted JSON responses
 - API routes registered via module’s `routes/api.php`
+- Swagger/OpenAPI docs (e.g., Scribe)----http://127.0.0.1:8000/docs
+
 
 ---
 
@@ -58,7 +60,6 @@ The following optional features were **not implemented** due to time constraints
 - Event (e.g. `ExpenseCreated`)
 - Notification via listener (email or database)
 - Feature/Unit test (PHPUnit)
-- Swagger/OpenAPI docs (e.g., Scribe)----http://127.0.0.1:8000/docs
 
 These can be easily added with the current architecture.
 
@@ -97,6 +98,6 @@ Modular folder structure is manually loaded using PSR-4
 Approx. 4–5 hours
 
 📬 Author
--------------------------------
+-------------------------------git s
 Athira Vijay
 GitHub: athiravijayk-20
